@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x968906c46e7768D344E41953b32C868f87e40129",
+  "SCAN_LINK": "https://polygonscan.com/token/0x968906c46e7768D344E41953b32C868f87e40129",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "DS_Collection_Test_V1",
+  "SYMBOL": "DSC",
+  "MAX_SUPPLY": 5,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/ds-collection-test-v1",
+  "SHOW_BACKGROUND": true
+}
